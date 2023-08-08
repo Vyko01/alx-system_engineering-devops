@@ -1,0 +1,2 @@
+#!/bin/bash
+cut cc 1 | paste -s -d ""
